@@ -114,7 +114,7 @@ h1 {
 #sushi {
     background-color: #FFA07A;
 }
-p {
+.title {
     width: 80px;
     height: 30px;
     border-left: solid 1px black;
