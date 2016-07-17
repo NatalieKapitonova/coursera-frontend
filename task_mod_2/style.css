@@ -104,15 +104,15 @@ h1 {
 
 
 #chicken{
-    background-color: #A52A2A;
+    background-color: #9ACD32;
 }
 
 #beef {
-    background-color: #DEB887;
+    background-color: #B0E0E6;
 }
 
 #sushi {
-    background-color: #FF7F50;
+    background-color: #FFA07A;
 }
 p {
     width: 80px;
@@ -135,5 +135,5 @@ p {
     margin: 10px;
     border: solid 1px black;
     position: relative;
-    background-color: grey;
+    background-color: #C0C0C0;
 }
